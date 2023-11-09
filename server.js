@@ -1,18 +1,45 @@
 const http = require("http");
 const dotenv = require("dotenv");
+const fs = require("fs");
+const path = require("path");
+const loadAjaxData = require("./utilities/loadAjaxData");
+
 
 dotenv.config();
 
 const port = process.env.PORT || 3000;
 
-const url = "https://api.chucknorris.io/jokes/random";
+const serverAsync = http.createServer((req, res) => {
+    pushContent();
+});
+  
+serverAsync.listen(port, () => {
+console.log(`Server running at port ${port}`);
+});
+function pushContent() {
+    const contentsPath = path.join(__dirname, "./contents", "norrisDb.json");
 
-const fetchData = () => {
-    fetch(`${url}`)
-    .then(response => response.json())
-    .then(data => console.log(data));
-    };
+    try {
+        const jokes = loadAjaxData((data) => {
+            const jokesArray = [];
+            const battute = fs.readFileSync(contentsPath, "utf-8");
+            jokesArray.push(data);
+            fs.writeFileSync(contentsPath, JSON.stringify(jokesArray));
+        });
 
-fetchData();
+        
+    
+        
+       
+        // const jokes = fs.readFileSync(loadAjaxData(({value}) => {
+        // }), "utf-8");
+        // console.log(jokes);
+        // return JSON.parse(jokes);
 
-http.listen
+    } catch (error) {
+        console.log(error.message);
+        return [];
+    }
+}
+
+
