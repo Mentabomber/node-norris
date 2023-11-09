@@ -1,1 +1,128 @@
-[{"categories":[],"created_at":"2020-01-05 13:42:21.795084","icon_url":"https://assets.chucknorris.host/img/avatar/chuck-norris.png","id":"aM1hthvhT0StnuvftCOe6Q","updated_at":"2020-01-05 13:42:21.795084","url":"https://api.chucknorris.io/jokes/aM1hthvhT0StnuvftCOe6Q","value":"Chuck Norris doesn't have school because hes too smart. That happened in 2nd grade."}]
+[
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:19.104863",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "o6OptkbATgyo4VV-SQgpuQ",
+    "updated_at": "2020-01-05 13:42:19.104863",
+    "url": "https://api.chucknorris.io/jokes/o6OptkbATgyo4VV-SQgpuQ",
+    "value": "Steel wool is harvested from Chuck Norris' crotch."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:19.324003",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "8svMaNbBQ4-7QPBf8hhAKA",
+    "updated_at": "2020-01-05 13:42:19.324003",
+    "url": "https://api.chucknorris.io/jokes/8svMaNbBQ4-7QPBf8hhAKA",
+    "value": "Chuck Norris found what Bono was looking for."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:26.766831",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "J2GkXiw3TeOFn3wgvUOSJw",
+    "updated_at": "2020-01-05 13:42:26.766831",
+    "url": "https://api.chucknorris.io/jokes/J2GkXiw3TeOFn3wgvUOSJw",
+    "value": "Chuck Norris ONLY drinks orange juice after brushing his teeth."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:19.104863",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "d8n0whpysmskld1azue9bq",
+    "updated_at": "2020-01-05 13:42:19.104863",
+    "url": "https://api.chucknorris.io/jokes/d8n0whpysmskld1azue9bq",
+    "value": "Chuck Norris once ate an entire bottle of sleeping pills. They made him blink."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:23.880601",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "O5w1tBiLT3SyNdElVPwItQ",
+    "updated_at": "2020-01-05 13:42:23.880601",
+    "url": "https://api.chucknorris.io/jokes/O5w1tBiLT3SyNdElVPwItQ",
+    "value": "There are no lines on Chuck Norris' palms. He decides his own fate - and others'."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:26.194739",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "m8qH40p6T0G5nPWmXK9CGw",
+    "updated_at": "2020-01-05 13:42:26.194739",
+    "url": "https://api.chucknorris.io/jokes/m8qH40p6T0G5nPWmXK9CGw",
+    "value": "Chuck Norris can make oxygen suffocate."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:29.569033",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "xJ00hE1QTkyPQF5owlrLJw",
+    "updated_at": "2020-01-05 13:42:29.569033",
+    "url": "https://api.chucknorris.io/jokes/xJ00hE1QTkyPQF5owlrLJw",
+    "value": "Chuck Norris is a man's man's man."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:25.099703",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "JiF3NQuMRaKfPLsB1cZZYg",
+    "updated_at": "2020-01-05 13:42:25.099703",
+    "url": "https://api.chucknorris.io/jokes/JiF3NQuMRaKfPLsB1cZZYg",
+    "value": "When Chuck Norris smiles a star blows up making a big explosion let's hope ours don't."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:26.991637",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "rbmMqcmUQFeSNQDnTlaDUg",
+    "updated_at": "2020-01-05 13:42:26.991637",
+    "url": "https://api.chucknorris.io/jokes/rbmMqcmUQFeSNQDnTlaDUg",
+    "value": "Chuck Norris shaves by simply scraping his fingernails across his cheeks."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:20.841843",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "_2iW8yQSRFCPxcfgKF6Bxw",
+    "updated_at": "2020-01-05 13:42:20.841843",
+    "url": "https://api.chucknorris.io/jokes/_2iW8yQSRFCPxcfgKF6Bxw",
+    "value": "Chuck Norris super human kicking speed is the reason The Flash can be seen in slow motion running bare footed."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:24.142371",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "GT53aU-TR-i0Ia7CmWeAqA",
+    "updated_at": "2020-01-05 13:42:24.142371",
+    "url": "https://api.chucknorris.io/jokes/GT53aU-TR-i0Ia7CmWeAqA",
+    "value": "Chuck Norris completed all missions on his \"Call of Duty 4: Modern Warefare\" game when set, on Prestige Level 55 \"Deathmatch\" setting & while standing on his head, blindfolded, hancuffed and wearing earplugs. And with his Guitar Hero controller."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:28.143137",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "eV3hPZzCREmxKy0Jj3790Q",
+    "updated_at": "2020-01-05 13:42:28.143137",
+    "url": "https://api.chucknorris.io/jokes/eV3hPZzCREmxKy0Jj3790Q",
+    "value": "Chuck Norris had what Meg Ryan was having."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:21.179347",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "-ePGBt5aQJKOSXkCNQsjDw",
+    "updated_at": "2020-01-05 13:42:21.179347",
+    "url": "https://api.chucknorris.io/jokes/-ePGBt5aQJKOSXkCNQsjDw",
+    "value": "A Chuck Norris roundhouse kick to the head is the reason Eric Holder can't remember his involvement in Operation Fast and Furious."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:20.262289",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "WshCLRPeSz2uyZ6M0UDOvw",
+    "updated_at": "2020-01-05 13:42:20.262289",
+    "url": "https://api.chucknorris.io/jokes/WshCLRPeSz2uyZ6M0UDOvw",
+    "value": "Chuck Norris once Round-House kicked a man so fast, his foot went at the speed of light, i't traveled back in time and killed the dinosaurs. Meteor? No, Chuck Norris."
+  }
+]

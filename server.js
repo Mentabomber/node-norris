@@ -21,10 +21,10 @@ function pushContent() {
 
     try {
         const jokes = loadAjaxData((data) => {
-            const jokesArray = [];
-            const battute = fs.readFileSync(contentsPath, "utf-8");
-            jokesArray.push(data);
-            fs.writeFileSync(contentsPath, JSON.stringify(jokesArray));
+            const existingData = JSON.parse(fs.readFileSync(contentsPath, "utf-8"));
+            console.log(existingData);
+            existingData.push(data);
+            fs.writeFileSync(contentsPath, JSON.stringify(existingData, null, 2));
         });
 
         
