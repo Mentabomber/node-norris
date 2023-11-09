@@ -1,0 +1,28 @@
+{
+  "name": "norris",
+  "version": "1.0.0",
+  "description": "Esercizio chiamate api module export",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mentabomber/node-norris.git"
+  },
+  "keywords": [
+    "module",
+    "api",
+    "export"
+  ],
+  "author": "Simcic Tilen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mentabomber/node-norris/issues"
+  },
+  "homepage": "https://github.com/Mentabomber/node-norris#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
